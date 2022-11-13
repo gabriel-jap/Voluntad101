@@ -1,0 +1,26 @@
+id,nombre,categoria,minutos,dependencia,link,lectura,video,audio,interactivo
+1,Programación A1,Programación ,5,inicial,www.google.com,False,True,True,False
+2,Programación A2,Programación ,10,1,www.google.com,True,False,False,False
+3,Programación A3,Programación ,30,1-2,www.google.com,True,False,True,False
+4,Programación A4,Programación ,15,1-2-3,www.google.com,False,True,False,False
+5,Programación A5,Programación ,40,1-2-3-4,www.google.com,True,False,False,True
+6,TejerA1,Tejer,20,inicial,www.google.com,False,True,True,False
+7,TejerB1,Tejer,40,inicial,www.google.com,False,True,True,False
+8,TejerC1,Tejer,37,inicial,www.google.com,False,True,True,False
+9,TejerD1,Tejer,10,inicial,www.google.com,False,True,True,False
+10,CocinaA1,Cocina,37,inicial,www.google.com,False,True,True,False
+11,CocinaA2,Cocina,23,10,www.google.com,False,True,True,False
+12,CocinaA3,Cocina,40,10-11,www.google.com,True,False,True,False
+13,CocinaA4,Cocina,10,10-11-12,www.google.com,False,True,True,False
+14,CocinaB1,Cocina,50,inicial,www.google.com,False,True,True,False
+15,CocinaB2,Cocina,67,14,www.google.com,False,True,True,False
+16,CocinaC1,Cocina,10,inicial,www.google.com,True,False,True,False
+17,MatematicasA1,Matematicas,10,inicial,www.google.com,True,False,False,False
+18,MatematicasA2,Matematicas,10,17,www.google.com,True,False,False,False
+19,MatematicasA3,Matematicas,10,17-18,www.google.com,True,False,False,False
+20,MatematicasA4,Matematicas,12,17-18-19,www.google.com,True,False,False,False
+21,MatematicasA5,Matematicas,15,17-18-29-20,www.google.com,True,False,False,False
+22,MatematicasB1,Matematicas,30,inicial,www.google.com,False,True,True,False
+23,MatematicasB2,Matematicas,20,22,www.google.com,False,True,True,False
+24,MatematicasB3,Matematicas,25,22-23,www.google.com,False,True,True,False
+25,MatematicasB4,Matematicas,40,22-23-24,www.google.com,False,True,True,False
